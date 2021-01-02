@@ -1,7 +1,6 @@
 # SQLite build instructions
-## Download and instructions
-[Download amalgamation](https://www.sqlite.org/download.html)
-[Compiling the command-line interface](https://www.sqlite.org/howtocompile.html)
+## [Download amalgamation](https://www.sqlite.org/download.html)
+## [Compiling the command-line interface](https://www.sqlite.org/howtocompile.html)
 ## Linux
 ### Unzip archive
     unzip sqlite-amalgamation-xxx.zip
